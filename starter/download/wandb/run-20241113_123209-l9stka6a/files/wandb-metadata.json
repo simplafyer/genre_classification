@@ -1,0 +1,137 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "3.10.15",
+    "heartbeatAt": "2024-11-13T17:32:11.550782",
+    "startedAt": "2024-11-13T17:32:09.296588",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/download/download_data.py",
+    "codePathLocal": "download_data.py",
+    "codePath": "starter/download/download_data.py",
+    "git": {
+        "remote": "https://github.com/simplafyer/genre_classification.git",
+        "commit": "3da48516037bdddc5aea97c331ac111245405df2"
+    },
+    "email": null,
+    "root": "/mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification",
+    "host": "DESKTOP-0LO6JHC",
+    "username": "simplafyer",
+    "executable": "/home/simplafyer/miniconda3/envs/mlflow-e190ff1f176d660e6839ac34c7d6bc74393e2ccd/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 4000.065000000001,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 16.32992935180664
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 7.722988128662109
+    }
+}

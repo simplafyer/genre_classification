@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/mlruns/0/5dc9e54a54c04bb2820a37012f613970/artifacts
+end_time: 1731519517553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dc9e54a54c04bb2820a37012f613970
+run_name: nimble-robin-281
+run_uuid: 5dc9e54a54c04bb2820a37012f613970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731519390867
+status: 4
+tags: []
+user_id: simplafyer

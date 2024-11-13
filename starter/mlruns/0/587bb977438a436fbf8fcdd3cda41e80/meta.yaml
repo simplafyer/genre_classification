@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/mlruns/0/587bb977438a436fbf8fcdd3cda41e80/artifacts
+end_time: 1731515889984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 587bb977438a436fbf8fcdd3cda41e80
+run_name: defiant-seal-635
+run_uuid: 587bb977438a436fbf8fcdd3cda41e80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731515854341
+status: 4
+tags: []
+user_id: simplafyer

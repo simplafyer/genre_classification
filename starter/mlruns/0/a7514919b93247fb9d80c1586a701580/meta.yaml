@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/mlruns/0/a7514919b93247fb9d80c1586a701580/artifacts
+end_time: 1731519744387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7514919b93247fb9d80c1586a701580
+run_name: thoughtful-swan-297
+run_uuid: a7514919b93247fb9d80c1586a701580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731519611533
+status: 3
+tags: []
+user_id: simplafyer

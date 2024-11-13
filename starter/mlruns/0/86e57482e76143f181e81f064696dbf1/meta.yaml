@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/mlruns/0/86e57482e76143f181e81f064696dbf1/artifacts
+end_time: 1731515071818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86e57482e76143f181e81f064696dbf1
+run_name: bittersweet-mole-475
+run_uuid: 86e57482e76143f181e81f064696dbf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731515068227
+status: 4
+tags: []
+user_id: simplafyer

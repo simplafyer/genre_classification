@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/mlruns/0/f9cf5e791974471e8b98857a1eeb0862/artifacts
+end_time: 1731518291776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9cf5e791974471e8b98857a1eeb0862
+run_name: resilient-loon-847
+run_uuid: f9cf5e791974471e8b98857a1eeb0862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731518031083
+status: 4
+tags: []
+user_id: simplafyer

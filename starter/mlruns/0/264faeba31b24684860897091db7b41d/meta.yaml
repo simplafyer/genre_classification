@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/mlruns/0/264faeba31b24684860897091db7b41d/artifacts
+end_time: 1731517659613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 264faeba31b24684860897091db7b41d
+run_name: ambitious-snail-606
+run_uuid: 264faeba31b24684860897091db7b41d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731517452113
+status: 4
+tags: []
+user_id: simplafyer

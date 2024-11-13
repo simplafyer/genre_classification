@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/mlruns/0/904a680ca4924bbc94040b0151beb6d8/artifacts
+end_time: 1731515839016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 904a680ca4924bbc94040b0151beb6d8
+run_name: vaunted-chimp-536
+run_uuid: 904a680ca4924bbc94040b0151beb6d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731515798769
+status: 4
+tags: []
+user_id: simplafyer

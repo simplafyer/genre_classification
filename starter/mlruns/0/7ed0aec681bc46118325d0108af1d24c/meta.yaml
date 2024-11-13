@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/mlruns/0/7ed0aec681bc46118325d0108af1d24c/artifacts
+end_time: 1731519517178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7ed0aec681bc46118325d0108af1d24c
+run_uuid: 7ed0aec681bc46118325d0108af1d24c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731519500266
+status: 4
+tags: []
+user_id: simplafyer

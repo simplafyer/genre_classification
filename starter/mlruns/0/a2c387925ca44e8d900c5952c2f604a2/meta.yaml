@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/mlruns/0/a2c387925ca44e8d900c5952c2f604a2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2c387925ca44e8d900c5952c2f604a2
+run_name: polite-wolf-124
+run_uuid: a2c387925ca44e8d900c5952c2f604a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731516672461
+status: 1
+tags: []
+user_id: simplafyer

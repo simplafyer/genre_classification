@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/mlruns/0/4cfdceb362b44ab6bba3c55ed19a7f3b/artifacts
+end_time: 1731516458388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cfdceb362b44ab6bba3c55ed19a7f3b
+run_name: flawless-eel-85
+run_uuid: 4cfdceb362b44ab6bba3c55ed19a7f3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731516454028
+status: 4
+tags: []
+user_id: simplafyer

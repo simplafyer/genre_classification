@@ -1,0 +1,137 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "3.12.7",
+    "heartbeatAt": "2024-11-13T17:32:41.685009",
+    "startedAt": "2024-11-13T17:32:40.727021",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "/home/simplafyer/miniconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/bin/pytest",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/simplafyer/genre_classification.git",
+        "commit": "3da48516037bdddc5aea97c331ac111245405df2"
+    },
+    "email": null,
+    "root": "/mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification",
+    "host": "DESKTOP-0LO6JHC",
+    "username": "simplafyer",
+    "executable": "/home/simplafyer/miniconda3/envs/mlflow-60000e2b97642ccc38c7a9ee503977f0abd54819/bin/python3.12",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 4000.065000000001,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4000.065,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 16.329936981201172
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 7.722988128662109
+    }
+}

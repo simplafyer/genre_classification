@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/mlruns/0/73ff9d657e234a12a0b4f063d3c198d3/artifacts
+end_time: 1731464407059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73ff9d657e234a12a0b4f063d3c198d3
+run_name: rumbling-pig-744
+run_uuid: 73ff9d657e234a12a0b4f063d3c198d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731464362947
+status: 4
+tags: []
+user_id: simplafyer
