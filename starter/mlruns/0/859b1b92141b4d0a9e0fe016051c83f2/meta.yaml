@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Jacob/Desktop/School/D501/nd0821-c2-build-model-workflow-exercises/genre_classification/starter/mlruns/0/859b1b92141b4d0a9e0fe016051c83f2/artifacts
+end_time: 1731463618364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 859b1b92141b4d0a9e0fe016051c83f2
+run_name: fearless-wasp-367
+run_uuid: 859b1b92141b4d0a9e0fe016051c83f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731463561291
+status: 4
+tags: []
+user_id: simplafyer
